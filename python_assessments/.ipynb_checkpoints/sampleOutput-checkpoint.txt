@@ -1,0 +1,84 @@
+Enter you choice:
+ 1: Add Expenses to List
+ 2: Set Budget
+ 3:Show Expenses
+ 4:Check budget
+ 5:Load expenses from file
+ 6:Save to file
+ 5
+enter the filename to load the data from , file should be in .txt format and
+ the data format should be ex: amount|category|description|date expenses.txt
+Enter you choice:
+ 1: Add Expenses to List
+ 2: Set Budget
+ 3:Show Expenses
+ 4:Check budget
+ 5:Load expenses from file
+ 6:Save to file
+ 3
+2025-03-11 | shopping | $33.0 | shopping desc
+2025-03-11 | travel | $35.0 | travel desc
+Enter you choice:
+ 1: Add Expenses to List
+ 2: Set Budget
+ 3:Show Expenses
+ 4:Check budget
+ 5:Load expenses from file
+ 6:Save to file
+ 1
+Enter amount:
+ 22
+Enter category:
+ food
+Enter description:
+ food desc
+Enter you choice:
+ 1: Add Expenses to List
+ 2: Set Budget
+ 3:Show Expenses
+ 4:Check budget
+ 5:Load expenses from file
+ 6:Save to file
+ 3
+2025-03-11 | shopping | $33.0 | shopping desc
+2025-03-11 | travel | $35.0 | travel desc
+2025-03-11 | food | $22.0 | food desc
+Enter you choice:
+ 1: Add Expenses to List
+ 2: Set Budget
+ 3:Show Expenses
+ 4:Check budget
+ 5:Load expenses from file
+ 6:Save to file
+ 6
+enter the filename to save data to: expenses.txt
+Enter you choice:
+ 1: Add Expenses to List
+ 2: Set Budget
+ 3:Show Expenses
+ 4:Check budget
+ 5:Load expenses from file
+ 6:Save to file
+ 3
+2025-03-11 | shopping | $33.0 | shopping desc
+2025-03-11 | travel | $35.0 | travel desc
+2025-03-11 | food | $22.0 | food desc
+Enter you choice:
+ 1: Add Expenses to List
+ 2: Set Budget
+ 3:Show Expenses
+ 4:Check budget
+ 5:Load expenses from file
+ 6:Save to file
+ 2
+Set Budget:
+ 1000
+Enter you choice:
+ 1: Add Expenses to List
+ 2: Set Budget
+ 3:Show Expenses
+ 4:Check budget
+ 5:Load expenses from file
+ 6:Save to file
+ 4
+910.0
