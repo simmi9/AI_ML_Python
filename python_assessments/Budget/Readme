@@ -1,0 +1,11 @@
+1)It has an interface which takes input of numbers from 1 to 6. 
+2) In steps 5 and 6 , we use the input as a file name in the current case - template.txt
+- the file name has data in the format
+22.0|food|food desc|2025-03-11
+33.0|shopping|shopping desc|2025-03-11
+35.0|travel|travel desc|2025-03-11
+- we have class Expense - and when we create an object the bits that are read are amount|category|description|date
+- the date is defauted to None- as it is auto assigned to todays date if no date is passed in contructor.
+- the set budget sets the budget of the expenses
+-check budget checks the remaining budget by substracting the budget set from total expenses made.
+- we can add the new expense item and save to the same file expenses.txt
