@@ -1,0 +1,47 @@
+1. Register
+2. Login
+3. Exit
+Choose an action:  2
+Enter username:  bhawna
+Enter password:  keswani
+Login successful!
+
+1. Add Task
+2. View Tasks
+3. Mark Task Completed
+4. Delete Task
+5. Logout
+Select an option:  2
+
+Your Tasks:
+[❌] bbd83e36-96f0-4eb8-9ddb-6ee1f0da94e0: work - homework
+[✔️] 066ebe7d-8887-416a-b88b-eb38bc303d43: exercise - physica;
+[❌] 147d8edf-9ce0-48e2-abf8-7f5b6cc41814: home - row
+[❌] 53447150-3564-49cc-85f1-f9abe570fc6a: win - dows
+
+1. Add Task
+2. View Tasks
+3. Mark Task Completed
+4. Delete Task
+5. Logout
+Select an option:  4
+Enter the task ID to delete:  53447150-3564-49cc-85f1-f9abe570fc6a
+Task 'win' deleted.
+
+1. Add Task
+2. View Tasks
+3. Mark Task Completed
+4. Delete Task
+5. Logout
+Select an option:  2
+
+Your Tasks:
+[❌] bbd83e36-96f0-4eb8-9ddb-6ee1f0da94e0: work - homework
+[✔️] 066ebe7d-8887-416a-b88b-eb38bc303d43: exercise - physica;
+[❌] 147d8edf-9ce0-48e2-abf8-7f5b6cc41814: home - row
+
+1. Add Task
+2. View Tasks
+3. Mark Task Completed
+4. Delete Task
+5. Logout
